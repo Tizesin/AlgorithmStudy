@@ -22,19 +22,21 @@
 
 ### 백준 유형별 문제 🥊
 <details>
-<summary>그리디</summary>
+<summary>1주차</summary>
   
-  * 3.12 : [1343](https://www.acmicpc.net/problem/1343) , [14916](https://www.acmicpc.net/problem/14916), [2828](https://www.acmicpc.net/problem/2828), [2217](https://www.acmicpc.net/problem/2217)
-  * 3.13 : [13305](https://www.acmicpc.net/problem/13305) , [1758](https://www.acmicpc.net/problem/1758), [11508](https://www.acmicpc.net/problem/11508), [11399](https://www.acmicpc.net/problem/11399)
-  * 3.14 : [11047](https://www.acmicpc.net/problem/11047) , [20115](https://www.acmicpc.net/problem/20115), [20300](https://www.acmicpc.net/problem/20300), [19941](https://www.acmicpc.net/problem/19941)
-  * 3.15 : [1541](https://www.acmicpc.net/problem/1541) , [20365](https://www.acmicpc.net/problem/20365), [16953](https://www.acmicpc.net/problem/16953), [21314](https://www.acmicpc.net/problem/21314)
-  * 3.18 : [1931](https://www.acmicpc.net/problem/1931) , [11501](https://www.acmicpc.net/problem/11501), [1080](https://www.acmicpc.net/problem/1080)
-  * 3.19 : [21758](https://www.acmicpc.net/problem/21758) , [17615](https://www.acmicpc.net/problem/17615), [2138](https://www.acmicpc.net/problem/2138)
-  * 3.20 : [11000](https://www.acmicpc.net/problem/11000) , [13164](https://www.acmicpc.net/problem/13164), [19598](https://www.acmicpc.net/problem/19598)
-  * 3.21 : [2212](https://www.acmicpc.net/problem/2212) , [1092](https://www.acmicpc.net/problem/1092), [1863](https://www.acmicpc.net/problem/1863)
-  * 3.22 : [2141](https://www.acmicpc.net/problem/2141) , [13975](https://www.acmicpc.net/problem/13975), [1715](https://www.acmicpc.net/problem/1715)
-  * 추가 문제 (골드 3 ~ 1) : [2812](https://www.acmicpc.net/problem/2812) ,[24337](https://www.acmicpc.net/problem/24337), [8980](https://www.acmicpc.net/problem/8980), [3687](https://www.acmicpc.net/problem/3687), [1202](https://www.acmicpc.net/problem/1202), [1700](https://www.acmicpc.net/problem/1700)
-  * 종결 (플레) : [18185](https://www.acmicpc.net/problem/18185)
+  * 3.12 : [1343](https://www.acmicpc.net/problem/1343) , [14916](https://www.acmicpc.net/problem/14916), [2828](https://www.acmicpc.net/problem/2828), [2217](https://www.acmicpc.net/problem/2217) (그리디)
+  * 3.13 : [2231](https://www.acmicpc.net/problem/2231) , [2309](https://www.acmicpc.net/problem/2309), [10448](https://www.acmicpc.net/problem/10448), [1436](https://www.acmicpc.net/problem/1436), [1018](https://www.acmicpc.net/problem/1018) (브론즈 문제가 섞여서 1문제 늘어났습니다~) (완전탐색)
+  * 3.14 : [1012](https://www.acmicpc.net/problem/1012) , [11724](https://www.acmicpc.net/problem/11724), [10552](https://www.acmicpc.net/problem/10552) (DFS)
+  * 3.15 : [2644](https://www.acmicpc.net/problem/2644) , [1260](https://www.acmicpc.net/problem/1260), [1012](https://www.acmicpc.net/problem/1012) (BFS)
+</details>
+<details>
+<summary>2주차</summary>
+  
+  * 3.18 : [2512](https://www.acmicpc.net/problem/2512) , [19637](https://www.acmicpc.net/problem/19637), [2805](https://www.acmicpc.net/problem/2805), [6236](https://www.acmicpc.net/problem/6236) (이분탐색)
+  * 3.19 : [9655](https://www.acmicpc.net/problem/9655) , [1463](https://www.acmicpc.net/problem/1463), [2193](https://www.acmicpc.net/problem/2193), [1904](https://www.acmicpc.net/problem/1904) (DP)
+  * 3.20 : [1446](https://www.acmicpc.net/problem/1446) , [9934](https://www.acmicpc.net/problem/9934), [14502](https://www.acmicpc.net/problem/14502) (그래프)
+  * 3.21 : [3474](https://www.acmicpc.net/problem/3474) , [1344](https://www.acmicpc.net/problem/1344), [1720](https://www.acmicpc.net/problem/1720) (수학)
+  * 3.22 : [1940](https://www.acmicpc.net/problem/1940) , [21921](https://www.acmicpc.net/problem/21921), [2559](https://www.acmicpc.net/problem/2559), [20922](https://www.acmicpc.net/problem/20922) (투포인터)
  </details>
 
 
