@@ -24,7 +24,7 @@
 <details>
 <summary>1주차</summary>
   
-  * 3.12 : [1343](https://www.acmicpc.net/problem/1343) , [14916](https://www.acmicpc.net/problem/14916), [2828](https://www.acmicpc.net/problem/2828), [2217](https://www.acmicpc.net/problem/2217) (그리디)
+  * 3.12 : (https://www.acmicpc.net/problem/1343) , [14916](https://www.acmicpc.net/problem/14916), [2828](https://www.acmicpc.net/problem/2828), [2217](https://www.acmicpc.net/problem/2217) (그리디)
   * 3.13 : [2231](https://www.acmicpc.net/problem/2231) , [2309](https://www.acmicpc.net/problem/2309), [10448](https://www.acmicpc.net/problem/10448), [1436](https://www.acmicpc.net/problem/1436), [1018](https://www.acmicpc.net/problem/1018) (브론즈 문제가 섞여서 1문제 늘어났습니다~) (완전탐색)
   * 3.14 : [1012](https://www.acmicpc.net/problem/1012) , [11724](https://www.acmicpc.net/problem/11724), [10552](https://www.acmicpc.net/problem/10552) (DFS)
   * 3.15 : [2644](https://www.acmicpc.net/problem/2644) , [1260](https://www.acmicpc.net/problem/1260), [1012](https://www.acmicpc.net/problem/1012) (BFS)
