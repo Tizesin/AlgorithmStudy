@@ -3,11 +3,11 @@
 <div align="center">
 
 알고리즘 스터디입니다
-|이준희|
-|:--:|
-|<img src="https://user-images.githubusercontent.com/71700079/191011655-729222fc-a7e4-4bef-bc27-e461514dedc3.png" width="100" height="100">
-|Member|
-|ljh19980823@gmail.com|
+|이준희|신민준|
+|:--:|:--:|
+|<img src="https://github.com/Jun2-Lee.png" width="100" height="100">| <img src="https://github.com/Tizesin.png" width="100">
+|Member|Member|
+|ljh19980823@gmail.com|email@gmail.com|
 
 </div>
 
