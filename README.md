@@ -36,3 +36,19 @@
   * 추가 문제 (골드 3 ~ 1) : [2812](https://www.acmicpc.net/problem/2812) ,[24337](https://www.acmicpc.net/problem/24337), [8980](https://www.acmicpc.net/problem/8980), [3687](https://www.acmicpc.net/problem/3687), [1202](https://www.acmicpc.net/problem/1202), [1700](https://www.acmicpc.net/problem/1700)
   * 종결 (플레) : [18185](https://www.acmicpc.net/problem/18185)
  </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #### 코테 반드시 뿌숴야지 🦾
