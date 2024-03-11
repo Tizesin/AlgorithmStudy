@@ -24,19 +24,19 @@
 <details>
 <summary>1주차</summary>
   
-  * 3.12 : (https://www.acmicpc.net/problem/1343) , [14916](https://www.acmicpc.net/problem/14916), [2828](https://www.acmicpc.net/problem/2828), [2217](https://www.acmicpc.net/problem/2217) (그리디)
-  * 3.13 : [2231](https://www.acmicpc.net/problem/2231) , [2309](https://www.acmicpc.net/problem/2309), [10448](https://www.acmicpc.net/problem/10448), [1436](https://www.acmicpc.net/problem/1436), [1018](https://www.acmicpc.net/problem/1018) (브론즈 문제가 섞여서 1문제 늘어났습니다~) (완전탐색)
-  * 3.14 : [1012](https://www.acmicpc.net/problem/1012) , [11724](https://www.acmicpc.net/problem/11724), [10552](https://www.acmicpc.net/problem/10552) (DFS)
-  * 3.15 : [2644](https://www.acmicpc.net/problem/2644) , [1260](https://www.acmicpc.net/problem/1260), [1012](https://www.acmicpc.net/problem/1012) (BFS)
+  * 3.12 : [1343] 폴리오미노 , [14916] 거스름돈, [2828] 사과 담기 게임, [2217] 로프 (그리디)
+  * 3.13 : [2231] 분해합 , [2309] 일곱난쟁이, [10448] 유레카 이론, [1436] 영화감독 숌, [1018] 체스판 다시 칠하기 (브론즈 문제가 섞여서 1문제 늘어났습니다~) (완전탐색)
+  * 3.14 : [1012] 유기농 배추 , [11724] 연결 요소의 개수, [10552] DOM (DFS)
+  * 3.15 : [2644] 촌수 계산 , [1260] DFS와BFS, [2178] 미로탐색 (BFS)
 </details>
 <details>
 <summary>2주차</summary>
   
-  * 3.18 : [2512](https://www.acmicpc.net/problem/2512) , [19637](https://www.acmicpc.net/problem/19637), [2805](https://www.acmicpc.net/problem/2805), [6236](https://www.acmicpc.net/problem/6236) (이분탐색)
-  * 3.19 : [9655](https://www.acmicpc.net/problem/9655) , [1463](https://www.acmicpc.net/problem/1463), [2193](https://www.acmicpc.net/problem/2193), [1904](https://www.acmicpc.net/problem/1904) (DP)
-  * 3.20 : [1446](https://www.acmicpc.net/problem/1446) , [9934](https://www.acmicpc.net/problem/9934), [14502](https://www.acmicpc.net/problem/14502) (그래프)
-  * 3.21 : [3474](https://www.acmicpc.net/problem/3474) , [1344](https://www.acmicpc.net/problem/1344), [1720](https://www.acmicpc.net/problem/1720) (수학)
-  * 3.22 : [1940](https://www.acmicpc.net/problem/1940) , [21921](https://www.acmicpc.net/problem/21921), [2559](https://www.acmicpc.net/problem/2559), [20922](https://www.acmicpc.net/problem/20922) (투포인터)
+  * 3.18 : [2512] 예산 , [19637] IF문 좀 대신 써줘, [2805] 나무 자르기, [6236] 용돈 관리 (이분탐색)
+  * 3.19 : [9655] 돌 게임 , [1463] 1로 만들기, [2193] 이친수, [1904] 01타일 (DP)
+  * 3.20 : [1446] 지름길 , [9934] 완전 이진 트리, [14502] 연구소 (그래프)
+  * 3.21 : [3474] 교수가 된 현우 , [1344] 축구, [1720] 타일 코드 (수학)
+  * 3.22 : [1940] 주몽 , [21921] 블로그, [2559] 수열, [20922] 겹치는 건 싫어 (투포인터)
  </details>
 
 
