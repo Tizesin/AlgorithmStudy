@@ -7,7 +7,7 @@
 |:--:|:--:|
 |<img src="https://github.com/Jun2-Lee.png" width="100" height="100">| <img src="https://github.com/Tizesin.png" width="100">
 |Member|Member|
-|ljh19980823@gmail.com|email@gmail.com|
+|ljh19980823@gmail.com|tlsalswns0o@gmail.com|
 
 </div>
 
